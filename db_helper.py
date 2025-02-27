@@ -6,7 +6,7 @@ global cnx
 cnx = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Harini@18",
+    password=" ",
     database="pandeyji_eatery"
 )
 
